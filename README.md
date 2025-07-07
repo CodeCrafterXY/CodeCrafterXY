@@ -2,7 +2,9 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=CodeCrafterXY)
 
-My name is Derryl, a young school boy who loves to code in
+My name is Derryl, a young school boy who loves to code in his free time 😄
+
+🌱 I’m currently learning Computer Science @ Satya Wacana Christian University
 
 <!--
 **CodeCrafterXY/CodeCrafterXY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
