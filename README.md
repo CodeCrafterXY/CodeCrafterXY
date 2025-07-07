@@ -8,6 +8,9 @@ My name is Derryl, a young boy who loves to code in his free time 😄
 &nbsp;
 
 👦🏻 Pronouns: He/Him
+&nbsp;
+
+🔭 I’m currently working on simonpetrus-web with @sam
 
 <!--
 **CodeCrafterXY/CodeCrafterXY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
