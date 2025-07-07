@@ -1,6 +1,6 @@
 ### Hello there, Outsider 👋
 
-My name is Derryl, a young school boy who loves to code in his free time 😄
+My name is Derryl, a young boy who loves to code in his free time 😄
 &nbsp;
 
 
