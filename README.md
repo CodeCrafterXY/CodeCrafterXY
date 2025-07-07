@@ -1,4 +1,4 @@
-## Hello there, Outsider 👋
+### Hello there, Outsider 👋
 
 My name is Derryl, a young school boy who loves to code in
 
