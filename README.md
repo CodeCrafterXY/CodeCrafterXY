@@ -5,6 +5,7 @@ My name is Derryl, a young school boy who loves to code in his free time 😄
 
 🌱 I’m currently learning Computer Science @ Satya Wacana Christian University
 &nbsp;
+
 👦🏻 Pronouns: He/Him
 
 <!--
