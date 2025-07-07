@@ -1,8 +1,8 @@
 ### Hello there, Outsider 👋<br>
 My name is Derryl, a young boy who loves to code in his free time 😄<br>
-> 🌱 I’m currently studying Computer Science @ Satya Wacana Christian University<br><br>
-> 🔭 I’m currently working on <strong>simonpetrus-web</strong> with [@samarlyka](https://github.com/samarlyka "Best Mentor Ever 🤩")<br><br>
-> 👦🏻 Pronouns: He/Him
+- 🌱 I’m currently studying Computer Science @ Satya Wacana Christian University<br><br>
+- 🔭 I’m currently working on <strong>simonpetrus-web</strong> with [@samarlyka](https://github.com/samarlyka "Best Mentor Ever 🤩")<br><br>
+- 👦🏻 Pronouns: He/Him
 
 <!--
 **CodeCrafterXY/CodeCrafterXY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
