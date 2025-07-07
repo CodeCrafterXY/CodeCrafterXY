@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there, Outsider 👋
+
+My name is Derryl, a young school boy who loves to code in
 
 <!--
 **CodeCrafterXY/CodeCrafterXY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
