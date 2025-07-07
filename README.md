@@ -1,6 +1,6 @@
 ### Hello there, Outsider 👋<br>
 My name is Derryl, a young boy who loves to code in his free time 😄<br>
-> 🌱 I’m currently studying Computer Science @ [Satya Wacana Christian University](https://fti.uksw.edu)<br><br>
+> 🌱 I’m currently studying Computer Science @ [Satya Wacana Christian University](https://uksw.edu "The Best Christian University")<br><br>
 > 🔭 I’m currently working on <strong>simonpetrus-web</strong> with @samarlyka<br><br>
 > 👦🏻 Pronouns: He/Him
 
