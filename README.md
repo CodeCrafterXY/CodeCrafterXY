@@ -1,7 +1,8 @@
 ### Hello there, Outsider 👋
 
 My name is Derryl, a young school boy who loves to code in his free time 😄
-<br />
+&nbsp;
+
 🌱 I’m currently learning Computer Science @ Satya Wacana Christian University
 
 <!--
