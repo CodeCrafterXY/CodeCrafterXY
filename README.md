@@ -3,7 +3,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=CodeCrafterXY)
 
 My name is Derryl, a young school boy who loves to code in his free time 😄
-<br/>
+<br />
 🌱 I’m currently learning Computer Science @ Satya Wacana Christian University
 
 <!--
