@@ -7,7 +7,7 @@ My name is Derryl, a young boy who loves to code in his free time 😄
 🌱 I’m currently learning Computer Science @ Satya Wacana Christian University
 &nbsp;
 
-🔭 I’m currently working on simonpetrus-web with @samarlyka
+🔭 I’m currently working on <strong>simonpetrus-web</strong> with @samarlyka
 &nbsp;
 
 👦🏻 Pronouns: He/Him
