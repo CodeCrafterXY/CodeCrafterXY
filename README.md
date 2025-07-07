@@ -4,13 +4,13 @@ My name is Derryl, a young boy who loves to code in his free time 😄
 &nbsp;
 
 
-🌱 I’m currently studying Computer Science @ [Satya Wacana Christian University](https://fti.uksw.edu)
-&nbsp;
-
-🔭 I’m currently working on <strong>simonpetrus-web</strong> with @samarlyka
-&nbsp;
-
-👦🏻 Pronouns: He/Him
+> 🌱 I’m currently studying Computer Science @ [Satya Wacana Christian University](https://fti.uksw.edu)
+> &nbsp;
+> 
+> 🔭 I’m currently working on <strong>simonpetrus-web</strong> with @samarlyka
+> &nbsp;
+> 
+> 👦🏻 Pronouns: He/Him
 
 <!--
 **CodeCrafterXY/CodeCrafterXY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
